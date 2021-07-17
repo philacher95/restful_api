@@ -25,7 +25,7 @@ Install Requirements lib Windows
 
 TO DO
 
->> cd Source_API/source/
+>> cd /source
 >> virtualenv env
 >> cd env/Scripts
 >> activate
