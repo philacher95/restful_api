@@ -43,6 +43,8 @@ INSTALLED_APPS = [
 
     # Internal Apps
     "api.apps.farm.apps.FarmConfig",
+    "api.apps.account.apps.AccountConfig",
+
 
     # External lib
     'rest_framework',
